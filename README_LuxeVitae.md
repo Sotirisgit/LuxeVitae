@@ -2,7 +2,7 @@
 # LuxeVitae Application
 
 ## Overview
-LuxeVitae is a specialized application designed for patients under the care of cardiologists. It offers tools for patients to monitor their health levels by logging daily routines (e.g., gymnastics, running, detox, nutrition) and biomedical data (e.g., heart rate, alcohol consumption, BMI, sleep, medication).
+LuxeVitae is a specialized application designed for patients under the care of cardiologists. It offers tools for patients to monitor their health levels by logging daily routines (e.g., gymnastics, running, detox, nutrition, alcohol consumption) and biomedical data (e.g., heart rate, BMI, sleep, medication).
 
 ## Features
 - **Health Monitoring:** Users can input daily activities and biomedical data to track their health progress.
@@ -14,15 +14,6 @@ The primary objective of LuxeVitae is to promote healthy habits and improve pati
 
 ## Status
 The LuxeVitae application is currently in progress. New features and improvements are being developed to enhance user experience and functionality.
-
-## For Developers
-This section is for developers looking to contribute to the LuxeVitae app. For setting up the project locally, follow the instructions below:
-
-```bash
-git clone https://github.com/yourgithub/LuxeVitae.git
-cd LuxeVitae
-# follow setup instructions
-```
 
 ## Feedback and Contributions
 We value your input and encourage you to help us improve LuxeVitae. Please fork the repository and submit your contributions via pull requests.
